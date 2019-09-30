@@ -43,3 +43,7 @@ def asin(a):
 
 def atan(a):
 	return math.atan(a) / math.pi * 180
+
+def atan2(y,x):
+	return math.atan2(y,x) / math.pi * 180
+
