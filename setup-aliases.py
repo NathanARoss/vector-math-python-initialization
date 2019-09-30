@@ -4,6 +4,7 @@ import numpy as np
 PI = math.pi
 cross = np.cross
 dot = np.dot
+length = np.linalg.norm
 
 def vec(*elements):
 	return np.array(elements)

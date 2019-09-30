@@ -1,3 +1,3 @@
 #!/bin/bash
 
-PYTHONSTARTUP=./setup-aliases.py python3
+PYTHONSTARTUP=setup-aliases.py python3
