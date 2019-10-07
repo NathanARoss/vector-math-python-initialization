@@ -2,6 +2,8 @@ import math
 import numpy as np
 
 PI = math.pi
+e = math.e
+log = math.log
 cross = np.cross
 dot = np.dot
 length = np.linalg.norm
